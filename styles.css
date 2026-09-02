@@ -2,13 +2,14 @@
     display: flex;
     flex-wrap: wrap;
     width: 700px;
+    border-style: solid;
 }
 
 .square {
     width: 12px;
     height: 12px;
     margin: 1px;
-    background-color:thistle;
+    background-color:rgb(224, 202, 224);
 }
 
 .hover {
